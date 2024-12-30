@@ -22,5 +22,5 @@ variable "web_alb_tags" {
 
 
 variable "zone_name" {
-    default = "daws81s.online"
+    default = "parthu.online"
 }

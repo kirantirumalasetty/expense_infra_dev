@@ -14,9 +14,9 @@ variable "common_tags" {
     }
 }
 
-variable "rds_tags" {
+variable "frontend_tags" {
     default = {
-        Component = "mysql"
+        Component = "frontend"
     }
 }
 
